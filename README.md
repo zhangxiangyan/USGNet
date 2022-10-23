@@ -1,4 +1,4 @@
-## A Fitting Grasp Detection Network Based on the DeepLabv3+ Semantic Segmentation Model
+## USGNet: A 6-DoF Grasp Pose Detection Network Based on UNet++ Semantic Segmentation Model
 ---
 
 ## Principle
